@@ -2,18 +2,22 @@
 
 O projeto está organizado por aulas e exercícios.
 
-src/main/java
-├── aula01
-│ ├── exemplos
-│ └── exercicios
-│
-├── aula02
-│ ├── exemplos
-│ └── exercicios
-│
-└── aula03
-├── exemplos
-└── exercicios
+```text
+src/
+└── main/
+    └── java/
+        ├── aula01/
+        │   ├── exemplos/
+        │   └── exercicios/
+        │
+        ├── aula02/
+        │   ├── exemplos/
+        │   └── exercicios/
+        │
+        └── aula03/
+            ├── exemplos/
+            └── exercicios/
+```
 
 Cada pasta representa:
 
