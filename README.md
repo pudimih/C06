@@ -7,15 +7,15 @@ src/
 └── main/
     └── java/
         ├── aula01/
-        │   ├── exemplos/
+        │   ├── aula/
         │   └── exercicios/
         │
         ├── aula02/
-        │   ├── exemplos/
+        │   ├── aula/
         │   └── exercicios/
         │
         └── aula03/
-            ├── exemplos/
+            ├── aula/
             └── exercicios/
 ```
 
